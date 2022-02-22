@@ -1,0 +1,37 @@
+[
+  {
+    "FirstName": "matan",
+    "LastName": "ysayas",
+    "Email": "matan@gamil.com",
+    "isOnline": true,
+    "Age": 25
+  },
+  {
+    "FirstName": "avi",
+    "LastName": "ttt",
+    "Email": "avi@gmail.com",
+    "isOnline": false,
+    "Age": 20
+  },
+  {
+    "FirstName": "bob",
+    "LastName": "ys",
+    "Email": "bob@gamil.com",
+    "isOnline": true,
+    "Age": 26
+  },
+  {
+    "FirstName": "roni",
+    "LastName": "ghi",
+    "Email": "roni@gamil.com",
+    "isOnline": false,
+    "Age": 19
+  },
+  {
+    "FirstName": "ttt",
+    "LastName": "tttts",
+    "Email": "tttt@gamil.com",
+    "isOnline": false,
+    "Age": 25
+  }
+]

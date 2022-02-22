@@ -1,0 +1,7 @@
+{
+    "FirstName": "avi",
+    "LastName": "ttt",
+    "Email": "avi@gmail.com",
+    "salary": 25000,
+    "listOfEmployees": ["matan","avi","yosi"]
+}

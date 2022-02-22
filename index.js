@@ -17,4 +17,6 @@ require('./myServer3')
 
 require('./server18')
 
-require('./server20');
+require('./server20')
+require('./server21')
+require('./server22')
